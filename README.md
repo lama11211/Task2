@@ -1,1 +1,2 @@
-# Task2
+# Task2: Robot Base Control panel
+I worked developing the Robot control user interface to control the Robot movement remotely. The development was done by HTML, CSS, and MySQL Database. You can move the report in the four direction and make it stop. I used the HTML file to build the structure of the control panel page. By using CSS file I design the style of the HTML file specifying the colors and hover of some element and where to set location each element in the page. Finally, I create the database and table of robot directions by PHPmyadmin. I upload screenshots of the Control Panel and database creation.
